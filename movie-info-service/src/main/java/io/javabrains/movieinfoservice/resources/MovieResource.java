@@ -23,7 +23,7 @@ public class MovieResource {
     public Movie getMovieInfo(@PathVariable("movieId") String movieId) {
         MovieSummary movieSummary = restTemplate.getForObject("https://api.themoviedb.org/3/movie/" + movieId + "?api_key=" +  apiKey, MovieSummary.class);
         return new Movie(movieId, movieSummary.getTitle(), movieSummary.getOverview());
-
+     //return new Movie(movieId, "Lock, Stock and Two Smoking Barrels","A card shark and his unwillingly-enlisted friends need to make a lot of cash quick after losing a sketchy poker match. To do this they decide to pull a heist on a small-time gang who happen to be operating out of the flat next door.");
     }
 
 }

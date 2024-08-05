@@ -7,6 +7,14 @@
         <option value="$PROJECT_DIR$/movie-info-service/pom.xml" />
         <option value="$PROJECT_DIR$/ratings-data-service/pom.xml" />
         <option value="$PROJECT_DIR$/movie-catalog-service/pom.xml" />
+        <option value="$PROJECT_DIR$/discovery-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-cloud-gatway-hystrix/spring-cloud-gateway-hystrix-master/service-registry/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-cloud-gatway-hystrix/spring-cloud-gateway-hystrix-master/payment-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-cloud-gatway-hystrix/spring-cloud-gateway-hystrix-master/order-service/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-cloud-gatway-hystrix/spring-cloud-gateway-hystrix-master/hystrix-dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-cloud-gatway-hystrix/spring-cloud-gateway-hystrix-master/cloud-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/../spring-cloud-gatway-hystrix/cloud-config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/../Trampoline/trampoline/pom.xml" />
       </list>
     </option>
   </component>
